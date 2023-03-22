@@ -5,6 +5,10 @@ float Luaspersegipanjang(float p, float l) {	//Untuk menghitung luas persegi pan
 	return p * l;
 }
 
+float luassegitiga(float a, float t) {			//Untuk menghitung luas segitiga
+	return 0.5 * a * t;
+}
+
 int main() {
 
 }
