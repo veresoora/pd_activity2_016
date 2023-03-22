@@ -14,5 +14,7 @@ float luaslingkaran(float r) {					//Untuk menghitung luas lingkaran
 }
 
 int main() {
-
+	
+	float panjang, lebar, tinggi, jejari, alas;
+	int pilihan;
 }
