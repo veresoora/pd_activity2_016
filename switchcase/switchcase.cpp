@@ -9,6 +9,10 @@ float luassegitiga(float a, float t) {			//Untuk menghitung luas segitiga
 	return 0.5 * a * t;
 }
 
+float luaslingkaran(float r) {					//Untuk menghitung luas lingkaran
+	return 3.14 * r * r;
+}
+
 int main() {
 
 }
